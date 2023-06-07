@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4908000
-#https://t.ly/DHUy2
-http://149.18.85.131:80/live/8059765630/3322606439/191874.m3u8
-
+#http://149.18.85.131:80/live/8059765630/3322606439/191874.m3u8
+#http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941609&extension=ts&play_token=go_ott_primary.mpd
+https://t.ly/DHUy2
