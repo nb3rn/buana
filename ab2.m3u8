@@ -3,4 +3,6 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4908000
 https://tinyurl.com/abcvmzsq
 
-
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=2,BANDWIDTH=4908000
+https://tinyurl.com/abckfkx
